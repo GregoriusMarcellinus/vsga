@@ -37,7 +37,7 @@ include 'components/add_cart.php';
 
 <div class="heading">
    <h3>Menu Kami</h3>
-   <p><a href="home.php">Beranda</a> <span> / Menu</span></p>
+   <p><a href="index.php">Beranda</a> <span> / Menu</span></p>
 </div>
 
 <!-- menu section starts  -->

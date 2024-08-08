@@ -1,8 +1,8 @@
 <?php
 
-$db_name = 'mysql:host=sql207.infinityfree.com;dbname=if0_34703645_food';
-$user_name = 'if0_34703645';
-$user_password = '@AsD778899@';
+$db_name = 'mysql:host=localhost;dbname=vsgafood';
+$user_name = 'root';
+$user_password = '';
 
 $conn = new PDO($db_name, $user_name, $user_password);
 
